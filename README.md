@@ -2,9 +2,9 @@
 
 - 🔥 Electrical Engineer & Junior Web Developer
 
-- 🔭 I’m currently working on landing a programming job as a web developer.
+- 🔭 I’m currently working @Capitual
 
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, SQL, NODEJS, REACT
+- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, SQL, NODEJS, EXPRESS, PRISMA
 
 - ⚡ Fun fact: I used to live in Newton, Massachusetts U.S.A and currently live in Vitória, ES Brazil 
 
