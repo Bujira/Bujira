@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working @Capitual
 
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, SQL, NODEJS, EXPRESS, PRISMA
+- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, SQL, NODEJS, EXPRESS, PRISMA, GRAPHQL, REACTJS
 
 - ⚡ Fun fact: I used to live in Newton, Massachusetts U.S.A and currently live in Vitória, ES Brazil 
 
@@ -54,19 +54,3 @@
  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=youtube" alt="youtube"/>
 </a>-->
 </p>
-
-
-<!--
-**maykbrito/maykbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
