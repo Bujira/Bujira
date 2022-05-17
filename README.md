@@ -1,6 +1,6 @@
 <h1 align="left">Hello there traveler <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Yuri Correa</h1>
 
-- 🔥 Electrical Engineer & Junior Web Developer
+- 🔥 Electrical Engineer & Web Developer
 
 - 🔭 I’m currently working @Capitual
 
