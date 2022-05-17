@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working @Capitual
 
-- 🌱 I’m currently learning NODEJS, REACTJS, React Native and Prisma
+- 🌱 I’m currently learning NodeJS, ReactJS, React Native and Prisma
 
 - ⚡ Fun fact: I used to live in Newton, Massachusetts U.S.A and currently live in Vitória, ES Brazil 
 
