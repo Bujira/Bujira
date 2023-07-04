@@ -1,12 +1,12 @@
-<h1 align="left">Hello there traveler <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Yuri Correa</h1>
+<h1 align="left">Hello there traveler, I'm Yuri Correa</h1>
 
-- 🔥 Electrical Engineer & Web Developer
+- 🔥 Electrical Engineer | Web Developer | Digital Assets Tech Lead
 
-- 🔭 I’m currently working @Capitual
+- 🔭 I’m currently working @TecBan
 
-- 🌱 I’m currently learning NodeJS, ReactJS, React Native and Prisma
+- 🌱 I’m currently learning Hyperledger Besu, smart contracts and CBDC.
 
-- ⚡ Fun fact: I used to live in Newton, Massachusetts U.S.A and currently live in Vitória, ES Brazil 
+- ⚡ Fun fact: I used to live in Newton, Massachusetts U.S.A and currently live in Mantova, Italy 
 
 <br><br>
 
