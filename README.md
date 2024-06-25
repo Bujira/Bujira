@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning Hyperledger Besu, smart contracts and CBDC.
 
-- ⚡ Fun fact: I used to live in Newton, Massachusetts U.S.A and currently live in Mantova, Italy 
+- ⚡ Fun fact: I lived in Massachusetts, U.S.A and also in Mantova, Italy. Currently living in Vitória, ES Brazil. 
 
 <br><br>
 
