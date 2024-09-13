@@ -1,6 +1,6 @@
 <h1 align="left">Hello there traveler, I'm Yuri Correa</h1>
 
-- 🔥 Electrical Engineer | Web Developer | Digital Assets Tech Lead
+- 🔥 Digital Assets Consultant | Software Engineer | Electrical Engineer 
 
 - 🔭 I’m currently working @TecBan
 
